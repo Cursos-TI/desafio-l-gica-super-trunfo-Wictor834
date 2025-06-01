@@ -84,19 +84,8 @@ int main() {
         printf("Resultado: Empate!\n");
     }
 
-    // Exibir também os cálculos extras
-    printf("\n--- Informações Extras ---\n");
-
-    printf("Carta 1 - Densidade Populacional: %.2f hab/km²\n", densidade1);
-    printf("Carta 1 - PIB per Capita: %.2f\n", pibPerCapita1);
-
-    printf("Carta 2 - Densidade Populacional: %.2f hab/km²\n", densidade2);
-    printf("Carta 2 - PIB per Capita: %.2f\n", pibPerCapita2);
-
-    
-
-                    
-    
+   
+ 
     
                     //Informações usada como exemplo//
 
